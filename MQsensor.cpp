@@ -8,8 +8,8 @@
 // WIFI CREDENTIALS
 // =====================================================
 
-const char* ssid = "Aravind";
-const char* password = "123456789";
+const char* ssid = "Shabarish1";
+const char* password = "h53egu4p";
 
 // =====================================================
 // WEB SERVER
